@@ -1,0 +1,23 @@
+h1{
+    color:rgb(238, 224, 95)
+}
+
+.header{
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.item{
+    
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+}
+
+
